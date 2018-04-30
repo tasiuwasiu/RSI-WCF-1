@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("File:Klient/App.xaml.cs","App.xaml.cs");NDSummary.OnSummaryLoaded("File:Klient/App.xaml.cs",[["C#","CSharp"]],[["Classes","Class"]],[[18,0,0,"<span class=\"Qualifier\">Klient.</span>&#8203;App","Klient.App"]]);

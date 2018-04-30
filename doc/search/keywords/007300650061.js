@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("sea",["Function"],[["searchWord",,[["Library.DictService",,,,0,"File:Library/DictService.cs:Library.DictService.searchWord","CSharpClass:Library.DictService:searchWord"],["Library.IDictService",,,,0,"File:Library/IDictService.cs:Library.IDictService.searchWord","CSharpClass:Library.IDictService:searchWord"]]]]);

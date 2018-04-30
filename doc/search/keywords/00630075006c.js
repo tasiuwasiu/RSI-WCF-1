@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("cul",["Property"],[["Culture",,[["Klient.Properties.Resources",,,,0,"File:Klient/Properties/Resources.Designer.cs:Klient.Properties.Resources.Culture","CSharpClass:Klient.Properties.Resources:Culture"]]]]);

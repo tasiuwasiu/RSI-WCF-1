@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("add",["Function"],[["addWord",,[["Library.DictService",,,,0,"File:Library/DictService.cs:Library.DictService.addWord","CSharpClass:Library.DictService:addWord"],["Library.IDictService",,,,0,"File:Library/IDictService.cs:Library.IDictService.addWord","CSharpClass:Library.IDictService:addWord"]]]]);

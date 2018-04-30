@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("app",["Class"],[["App",,[["Klient",,,,0,"File:Klient/App.xaml.cs:Klient.App","CSharpClass:Klient.App"]]]]);

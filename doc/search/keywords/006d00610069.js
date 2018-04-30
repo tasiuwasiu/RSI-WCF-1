@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("mai",["Function","Class"],[["Main",,[["Host.Program",,,,0,"File:Host/Program.cs:Host.Program.Main","CSharpClass:Host.Program:Main"],["Klient.App",,,,0,"File:Klient/obj/Debug/App.g.cs:Klient.App.Main","CSharpClass:Klient.App:Main"]]],["MainWindow",,[["Klient",,,,1,"File:Klient/MainWindow.xaml.cs:Klient.MainWindow","CSharpClass:Klient.MainWindow"]]]]);

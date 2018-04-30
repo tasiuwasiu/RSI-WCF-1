@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("CSharpClass:Host.Program","Program");NDSummary.OnSummaryLoaded("CSharpClass:Host.Program",[["C#","CSharp"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[12,0,0,"<span class=\"Qualifier\">Host.</span>&#8203;Program"],[13,0,2,"Functions","Functions"],[14,0,1,"Main","Main"]]);

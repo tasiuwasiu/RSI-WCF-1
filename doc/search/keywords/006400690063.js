@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("dic",["Class"],[["DictService",,[["Library",,,,0,"File:Library/DictService.cs:Library.DictService","CSharpClass:Library.DictService"]]]]);

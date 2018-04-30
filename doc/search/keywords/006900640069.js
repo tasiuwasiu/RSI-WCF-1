@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("idi",["Interface"],[["IDictService",,[["Library",,,,0,"File:Library/IDictService.cs:Library.IDictService","CSharpClass:Library.IDictService"]]]]);
